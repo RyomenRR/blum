@@ -1,2 +1,0 @@
-# blum
-Blumbot 
